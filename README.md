@@ -8,4 +8,4 @@ I have no project, however. I've just written this so far. And to be honest, not
 tabulation, meaning I have to hit 'enter' each time I want to go to the next line. Primordial, right? OK, just head for the actual file since there's no more 
 to be said here.
 
-Goodbye. I hope you enjoy what I've coded. It took me many hours just to accomplish those measly 100 lines. 
+Goodbye. I hope you enjoy what I've coded. It took me many hours just to accomplish these measly 100 lines. 
